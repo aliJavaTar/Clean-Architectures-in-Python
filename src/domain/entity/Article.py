@@ -20,3 +20,5 @@ class Article:
         self.is_published = is_published
         self.created_at = datetime.now()
         self.updated_at = datetime.now()
+
+

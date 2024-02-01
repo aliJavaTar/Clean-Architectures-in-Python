@@ -14,3 +14,6 @@ class User:
         self.username = username
         self.password = password
         self.national_code = national_code
+
+    def edit_information(self):
+        pass
